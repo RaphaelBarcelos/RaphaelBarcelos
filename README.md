@@ -15,4 +15,4 @@ I'm Raphael Barcelos, a Computer Science student from Brazil.
 
 ## ⚡Stack
 
-• Software Engineering: Spring, JPA and Spring Data, Messaging
+• Software Engineering: Spring Boot
